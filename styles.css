@@ -1,0 +1,17 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f0f0f0;
+  }
+  
+  #pixelCanvas {
+    border: 1px solid black;
+    margin-top: 20px;
+    cursor: crosshair;
+  }
+  
+  .controls {
+    margin: 15px;
+  }
+  
